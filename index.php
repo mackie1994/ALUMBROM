@@ -14,8 +14,8 @@
 
 </style>
 
-<link rel="stylesheet" type="text/css" media="print" href="http://alexking.org/site/projects/html-resume-template/demo/resume.php?output=css_print" />
-
+<link rel="stylesheet" type="text/css" href="mystyle.css">
+	
 <script type="text/javascript" src="http://alexking.org/site/projects/html-resume-template/demo/resume.php?output=js"></script>
 
 </head>
