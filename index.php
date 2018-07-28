@@ -8,11 +8,6 @@
 
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 
-<style type="text/css" media="screen">
-
-	@import url(http://alexking.org/site/projects/html-resume-template/demo/resume.php?output=css_screen);
-
-</style>
 
 <link rel="stylesheet" type="text/css" href="mystyle.css">
 	
@@ -42,7 +37,7 @@
 
 <p id="bio_right">
 
-<img src="http://localhost/img/dummy-profile.png" /></p>
+<img src="dummy-profile.png" /></p>
 
 
 
